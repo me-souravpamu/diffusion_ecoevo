@@ -1,0 +1,10 @@
+@software{me_souravpamu_2026_20844369,
+  author       = {Sourav Roy, Md Sayeed Anwar, Timoteo Carletti, Matja{\v z} Perc, Dibakar Ghosh},
+  title        = {Diffusion-induced instabilities promote cooperation in eco-evolutionary networks},
+  month        = june,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {diff_0.1.0},
+  doi          = {10.5281/zenodo.20844369},
+  url          = {https://doi.org/10.5281/zenodo.20844369},
+}
